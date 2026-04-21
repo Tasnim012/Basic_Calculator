@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Basic Calculator", anchor=False)
+st.title("Saimun Calculator", anchor=False)
 st.subheader("You can calculate only basic calculation", anchor=False)
 st.divider()
 
